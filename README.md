@@ -49,6 +49,7 @@ Dashboard displays attendance reports
 📄 dashboard.py          → Dashboard with Flask
 📄 Attendance.csv        → Attendance logs
 📄 requirements.txt      → Dependencies
+
 🛠 Setup & Installation
 1. Create virtual environment (optional but recommended)
 python -m venv venv
@@ -63,6 +64,7 @@ python app.py
 Open browser:
 
 http://localhost:5000
+
 📈 Future Improvements
 
 Cloud storage integration
